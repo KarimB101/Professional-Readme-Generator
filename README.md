@@ -38,8 +38,7 @@ A link on how to install the Inquirer package and its file modules is summarized
 'npm i inquirer@8.2.4' would be the command on the command line to install this package. 
 
 ## Usage
-
-## Credits
+The link to the video demonstrating the capability of the code application can be view at this link [Video Representation]()
 
 ## License
 MIT License
@@ -53,6 +52,6 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Project Status
-The application is currently functional and all the standard inputs that deem to be necessary for a professional have been included. If enough suggestions for more or different inputs to be included into the readme generator the code may be updated within a reasonable timeframe. 
+The application is currently functional and all the standard inputs that deem to be necessary for a professional have been included. If enough suggestions for more or different inputs to be included into the readme generator the code may be updated within a reasonable timeframe. The link to the Github Repo is [Github Repo](https://github.com/KarimB101/Professional-Readme-Generator).
 
 
