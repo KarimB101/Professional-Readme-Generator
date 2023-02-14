@@ -38,7 +38,7 @@ A link on how to install the Inquirer package and its file modules is summarized
 'npm i inquirer@8.2.4' would be the command on the command line to install this package. 
 
 ## Usage
-The link to the video demonstrating the capability of the code application can be view at this link [Video Representation]()
+The link to the video demonstrating the capability of the code application can be view at this link [Video Representation](https://drive.google.com/file/d/14dCG2I7k7j7FvQmjqomgNebDzLsLOBM7/view?usp=sharing)
 
 ## License
 MIT License
